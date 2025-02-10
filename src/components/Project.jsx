@@ -60,7 +60,7 @@ const projects = [
     image: "/placeholder.svg?height=200&width=300",
     tags: ["React", "Tailwind Css", "Vercel"],
     category: "frontend",
-    link: "https://my-portfolio.vercel.app/",
+    link: "https://vedant06-portfolio.vercel.app/",
     github: "https://github.com/yourusername/weather-forecast-app",
   },
   {
